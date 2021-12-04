@@ -1,5 +1,5 @@
 # AoC 2021 Day 1
-# Challenge 2
+# Challenge 2/50
 # Answer 1344
 depths = []
 

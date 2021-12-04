@@ -1,5 +1,5 @@
 # AoC 2021 Day 2
-# Challenge 1
+# Challenge 4/50
 # Answer 1971232560
 
 commands = []
