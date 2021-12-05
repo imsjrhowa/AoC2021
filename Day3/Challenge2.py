@@ -1,6 +1,6 @@
 # AoC 2021 Day 3
 # Challenge 6/50
-# Answer 
+# Answer 4375225
 
 import sys
 import os
