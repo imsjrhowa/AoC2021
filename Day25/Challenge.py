@@ -83,6 +83,7 @@ def main():
             print("Answer ", stepCount)
             break
 
+    printGrid()
     return 
 
 main()
